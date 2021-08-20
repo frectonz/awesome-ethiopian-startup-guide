@@ -194,3 +194,16 @@ We bring the store to you; life simplified.
 
 - [Website](https://www.mekina.net/)
 - [LinkedIn](https://www.linkedin.com/company/mekinanet/)
+
+## Qinash
+
+Ethiopia-based online marketplace that connects consumers to discounts and offers from local businesses.
+
+[LinkedIn](https://www.linkedin.com/company/qinash/)
+[Twitter](https://twitter.com/QinashET)
+
+## Store 251
+
+Ethical Fashion, Hand Made products, Leather and Cotton
+
+[LinkedIn](https://www.linkedin.com/company/store-251/)
