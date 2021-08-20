@@ -12,3 +12,4 @@
 - [Ethiopian Programmers Hub](https://t.me/EthioProgrammersHub)
 - [Programming Materials](https://t.me/Eth_programming_Materials)
 - [Zemach fm](https://t.me/zemachfm)
+- [Tech Et](https://t.me/joinchat/poQz-34nCDc5MWJk)
