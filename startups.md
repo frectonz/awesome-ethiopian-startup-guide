@@ -206,7 +206,7 @@ Ethiopia-based online marketplace that connects consumers to discounts and offer
 
 Ethical Fashion, Hand Made products, Leather and Cotton
 
-[LinkedIn](https://www.linkedin.com/company/store-251/)
+- [LinkedIn](https://www.linkedin.com/company/store-251/)
 
 ## Ahun
 
