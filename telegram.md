@@ -1,4 +1,4 @@
-# Telegram Groups an Channels
+# Telegram Groups and Channels
 
 - [Addis Coder 2019 Students and T.As Coalition](https://t.me/addiscoder_2019)
 - [CodeNight](https://t.me/CodeNight)
