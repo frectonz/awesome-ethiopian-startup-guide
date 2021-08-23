@@ -213,3 +213,14 @@ Ethical Fashion, Hand Made products, Leather and Cotton
 Social way of discovering places and events around you.
 
 - [Website](https://ahun.app/)
+
+## Avetol
+
+All Ethiopian Entertainment in one place.
+
+- [Website](https://avetol.com/)
+- [YouTube](https://www.youtube.com/channel/UC8wBwZ9GfPg32GDpUnvicTA)
+- [Twitter](https://twitter.com/avetol_et)
+- [Instagram](https://www.instagram.com/avetol_et/)
+- [facebook](https://www.facebook.com/avetol)
+- [LinkedIn](https://www.linkedin.com/company/avetol/)
