@@ -224,3 +224,14 @@ All Ethiopian Entertainment in one place.
 - [Instagram](https://www.instagram.com/avetol_et/)
 - [facebook](https://www.facebook.com/avetol)
 - [LinkedIn](https://www.linkedin.com/company/avetol/)
+
+## Ethio Locate
+
+Your Travel Companion.
+
+- [Website](https://ethiolocate.com/)
+- [LinkedIn](https://www.linkedin.com/company/ethiolocate/)
+- [facebook](https://www.facebook.com/ethiolocate/)
+- [Twitter](https://twitter.com/ethiolocate)
+- [Telegram](https://t.me/ethiolocate)
+- [Youtube](https://www.youtube.com/channel/UCgLnPcjQxZ8PKmRGSdZ85CA/)
