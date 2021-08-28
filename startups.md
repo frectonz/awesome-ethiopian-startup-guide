@@ -171,13 +171,6 @@ Always Moving
 - [Website](https://www.taxiye.com/)
 - [LinkedIn](https://www.linkedin.com/showcase/hellocash-ethiopia/)
 
-## xHub Addis
-
-Ideas at work
-
-- [Website](http://www.xhubaddis.com/)
-- [LinkedIn](https://www.linkedin.com/showcase/hellocash-ethiopia/)
-
 ## Qefira
 
 - [Website](https://www.qefira.com/)

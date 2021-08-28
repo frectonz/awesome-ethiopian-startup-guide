@@ -20,3 +20,10 @@ A Pan-African Online Talent Marketplace connecting companies with a competitive,
 
 - [Website](https://gebeya.com/)
 - [LinkedIn](https://www.linkedin.com/company/gebeya-inc./)
+
+## xHub Addis
+
+Ideas at work
+
+- [Website](http://www.xhubaddis.com/)
+- [LinkedIn](https://www.linkedin.com/showcase/hellocash-ethiopia/)
