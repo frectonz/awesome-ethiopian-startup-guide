@@ -228,3 +228,9 @@ Your Travel Companion.
 - [Twitter](https://twitter.com/ethiolocate)
 - [Telegram](https://t.me/ethiolocate)
 - [Youtube](https://www.youtube.com/channel/UCgLnPcjQxZ8PKmRGSdZ85CA/)
+
+## Selam Tech
+
+- [Website](https://www.selamtech.net/)
+- [facebook](https://www.facebook.com/selamtechethiopia)
+- [Telegram](https://t.me/selamtech)
