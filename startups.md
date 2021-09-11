@@ -234,3 +234,12 @@ Your Travel Companion.
 - [Website](https://www.selamtech.net/)
 - [facebook](https://www.facebook.com/selamtechethiopia)
 - [Telegram](https://t.me/selamtech)
+
+## EPhone
+
+The ultimate Dialer & SMS app. The Dialer App Re-imagined. Save yourself from the tedious steps of dialing *999# or any other USSD codes.
+
+- [Website](https://ephone.app/)
+- [LinkedIn](https://www.linkedin.com/company/ephone-dialer-app/)
+- [facebook](https://www.facebook.com/ephonedialer/)
+- [Twitter](https://twitter.com/ephonedialer)
