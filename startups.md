@@ -243,3 +243,14 @@ The ultimate Dialer & SMS app. The Dialer App Re-imagined. Save yourself from th
 - [LinkedIn](https://www.linkedin.com/company/ephone-dialer-app/)
 - [facebook](https://www.facebook.com/ephonedialer/)
 - [Twitter](https://twitter.com/ephonedialer)
+
+## Ethiojobs.net
+
+Better Job. Better Talent, Ethiopia's Number 1 Job Site 
+
+- [Website](https://www.ethiojobs.net/)
+- [LinkedIn](https://www.linkedin.com/company/ethiojobs-net/)
+- [Twitter](https://twitter.com/Ethiojobs)
+- [Facebook](https://www.facebook.com/Ethiojobs)
+- [Telegram](https://t.me/ethiojobsofficial)
+- [YouTube](https://www.youtube.com/user/Ethiojobs)
