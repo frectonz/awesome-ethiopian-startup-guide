@@ -254,3 +254,10 @@ Better Job. Better Talent, Ethiopia's Number 1 Job Site
 - [Facebook](https://www.facebook.com/Ethiojobs)
 - [Telegram](https://t.me/ethiojobsofficial)
 - [YouTube](https://www.youtube.com/user/Ethiojobs)
+
+## JakTech
+
+- [Website](https://www.jaktech.et/)
+- [Facebook](https://www.facebook.com/Jaktechethiopia/)
+- [Instagram](https://www.instagram.com/jaktechethiopia/)
+- [LinkedIn](https://www.linkedin.com/company/jaktech/)
