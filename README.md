@@ -10,4 +10,4 @@ Information
 - [Incubators and Hubs](/incubators_and_hubs.md)
 - [Venture Capital](/venture_capital.md)
 - [Startups](/startups.md)
-- [Peopls](/people.md)
+- [People](/people.md)
