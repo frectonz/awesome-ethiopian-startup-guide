@@ -14,7 +14,7 @@ OIH is a startup hub that incubates and accelerates digital innovations with inc
 - [Website](https://www.orbitinnovationhub.com/)
 - [LinkedIn](https://www.linkedin.com/company/orbitinnovationhub/)
 
-## Gebeya Inc.
+## Gebeya Inc
 
 A Pan-African Online Talent Marketplace connecting companies with a competitive, skilled workforce.
 

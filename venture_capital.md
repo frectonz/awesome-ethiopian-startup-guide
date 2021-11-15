@@ -18,7 +18,7 @@ Digital transformation, one startup at a time.
 
 - [LinkedIn](https://www.linkedin.com/company/kudu-ventures/about/)
 
-## Kudu Investment Management, LLC.
+## Kudu Investment Management, LLC
 
 Flexible, long-term, minority capital solutions for asset and wealth managers.
 
