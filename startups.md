@@ -261,3 +261,11 @@ Better Job. Better Talent, Ethiopia's Number 1 Job Site
 - [Facebook](https://www.facebook.com/Jaktechethiopia/)
 - [Instagram](https://www.instagram.com/jaktechethiopia/)
 - [LinkedIn](https://www.linkedin.com/company/jaktech/)
+
+## OwlEvents
+
+Your Events Simplified
+
+- [Website](https://owlevents.app)
+- [LinkedIn](https://www.linkedin.com/company/owlevents/)
+- [Play Store](https://play.google.com/store/apps/details?id=org.awuraplc.owlevents)
